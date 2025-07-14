@@ -21,7 +21,7 @@ This is a simple ASP.NET Core MVC application for managing student records. The 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/student-management-system.git
+   git clone https://github.com/mishalali-A2/StudentManagementSys.git
    cd student-management-system
    ```
 
